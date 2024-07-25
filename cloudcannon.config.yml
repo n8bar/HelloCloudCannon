@@ -25,3 +25,10 @@ _inputs:
 base_url: /
 data_config: {}
 timezone: Etc/UTC
+files:
+  - label: "Home Page"
+    path: index.md
+  - label: "About Page"
+    path: about.md
+  - label: "Contact Page"
+    path: contact.md
